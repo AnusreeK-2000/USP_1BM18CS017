@@ -1,0 +1,3 @@
+Write a shell Program to accept a filename from the User 
+and display the attributes,contents and word count of the file 
+Perform copy,rename  operation by accepting two filenames from the user
